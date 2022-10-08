@@ -1,0 +1,9 @@
+.todo-list {
+  &__header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 210px;
+    justify-content: space-between;
+  }
+}
